@@ -1,4 +1,4 @@
-# Collection-CSV
+# Collection-CSV [![Build Status](https://travis-ci.org/thebakeryio/meteor-collection-csv.svg?branch=master)](https://travis-ci.org/thebakeryio/meteor-collection-csv)
 
 Serialize collections to CSV
 
